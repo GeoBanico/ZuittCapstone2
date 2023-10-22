@@ -1,0 +1,2 @@
+1,Admin,Admin@admin.com,admin123,Quezon City,09123456789,True
+2,Geo,Geo@geo.com,geo123,Geo City,09123456789,False

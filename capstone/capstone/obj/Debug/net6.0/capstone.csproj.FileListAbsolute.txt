@@ -1,0 +1,14 @@
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\bin\Debug\net6.0\capstone.exe
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\bin\Debug\net6.0\capstone.deps.json
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\bin\Debug\net6.0\capstone.runtimeconfig.json
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\bin\Debug\net6.0\capstone.dll
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\bin\Debug\net6.0\capstone.pdb
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.AssemblyInfoInputs.cache
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.AssemblyInfo.cs
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.csproj.CoreCompileInputs.cache
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.dll
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\refint\capstone.dll
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.pdb
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\capstone.genruntimeconfig.cache
+C:\Users\sglba\OneDrive\Desktop\Programming\practice_coding\pointwest_capstone2\capstone\capstone\obj\Debug\net6.0\ref\capstone.dll
